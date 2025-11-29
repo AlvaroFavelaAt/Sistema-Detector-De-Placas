@@ -80,7 +80,7 @@ Dirección: {resultado[6]}
 """
         lbl_resultado.config(text=texto)
     else:
-        lbl_resultado.config(text="❌ Placa no encontrada")
+        lbl_resultado.config(text="Placa no encontrada")
 
 
 # ------------------ INTERFAZ ------------------

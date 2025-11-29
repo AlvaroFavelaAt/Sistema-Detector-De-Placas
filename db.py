@@ -64,5 +64,5 @@ def consultar_por_placa(placa):
         return resultado
 
     except Exception as e:
-        print("❌ Error al consultar:", e)
+        print("Error al consultar:", e)
         return None
